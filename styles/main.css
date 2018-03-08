@@ -25,10 +25,12 @@ h1 {
   margin-top: 100px;
   padding-top: 50px;
   font-size: 105px;
+  color: #bf33bf;
 }
 .slogan {
   font-weight: lighter;
   font-size: 1.6rem;
+  color: #bf33bf;
 }
 
 footer.mdl-mini-footer {
