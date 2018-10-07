@@ -24,13 +24,14 @@ h1 {
   font-weight: bold;
   margin-top: 100px;
   padding-top: 50px;
-  font-size: 105px;
+  font-size: 125px;
   color: #bf33bf;
+  letter-spacing: .20rem;
 }
 .slogan {
   font-weight: lighter;
-  font-size: 2.5rem;
-  color: #bf33bf;
+  font-size: 2.8rem;
+  color:#fcfa6c;
 }
 
 footer.mdl-mini-footer {
@@ -50,4 +51,8 @@ footer.mdl-mini-footer {
   header.mdl-layout__header {
     display: flex;
   }
+}
+
+.mdl-card__supporting-text {
+  font-size: 18px;
 }
